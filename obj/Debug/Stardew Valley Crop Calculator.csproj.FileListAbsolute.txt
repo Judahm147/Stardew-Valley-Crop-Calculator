@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\bin\Debug\Stardew Valley Crop Calculator.exe.config
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\bin\Debug\Stardew Valley Crop Calculator.exe
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\bin\Debug\Stardew Valley Crop Calculator.pdb
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew Valley Crop Calculator.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew_Valley_Crop_Calculator.Form1.resources
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew_Valley_Crop_Calculator.Properties.Resources.resources
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew Valley Crop Calculator.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew Valley Crop Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew Valley Crop Calculator.exe
+C:\Users\Home\source\repos\Stardew Valley Crop Calculator\Stardew Valley Crop Calculator\obj\Debug\Stardew Valley Crop Calculator.pdb
