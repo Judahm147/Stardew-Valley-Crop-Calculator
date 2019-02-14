@@ -1,0 +1,1 @@
+This program is meant to experiment with the fertilization mechanic in Stardew Valley
